@@ -1,2 +1,2 @@
 # Snow-Bros
-A Snow Bros clone built with C++ and SFML
+A C++/SFML replica of the classic Snow Bros game featuring custom enemy AI hierarchies, file-based data persistence, and real-time hit-box debugging tools.
