@@ -30,7 +30,7 @@ Two snowmen brothers — **Nick** and **Tom** — must battle through 10 levels 
 
 - [x] 10 playable levels (8 standard + 2 boss)
 - [x] 2 random bonus levels per playthrough (gem/cash rain)
-- [x] 3 playable characters with stat variations
+- [x] 2 playable characters with stat variations
 - [x] Full enemy hierarchy with color variants 
 - [x] Snowball throw, encase, roll, chain mechanic
 - [x] Hitbox debug toggle (F1)
